@@ -8,8 +8,8 @@ O que esse projeto demonstra ->
 - Polimorfismo: método calcularPagamento() sobrescrito em cada tipo
 
 Estrutura ->
- └── src/
-     ├── Funcionario.java
-     ├── FuncionarioCLT.java
-     ├── FuncionarioPJ.java
-     └── Main.java
+ > src/
+       Funcionario.java
+       FuncionarioCLT.java
+       FuncionarioPJ.java
+       Main.java
