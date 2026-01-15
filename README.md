@@ -9,7 +9,7 @@ O que esse projeto demonstra ->
 
 Estrutura ->
  > src/
-       Funcionario.java
-       FuncionarioCLT.java
-       FuncionarioPJ.java
-       Main.java
+       - Funcionario.java
+       - FuncionarioCLT.java
+       - FuncionarioPJ.java
+       - Main.java
